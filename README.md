@@ -14,4 +14,4 @@ Please refer to PROMPT_USAGE.md and the Terms of Use published on GitHub Pages f
 
 詳細は以下をご確認ください：
 - PROMPT_USAGE.md
-- 利用規約（GitHub Pages）: https://atsuyoshi-hikida.github.io/business-prompts/
+- 利用規約（GitHub Pages）: https://ahikida-tools.github.io/business-prompts/
