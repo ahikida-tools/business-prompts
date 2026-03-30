@@ -10,3 +10,8 @@ The prompts are permitted **for business use only** and **must not be used for e
 
 詳細は PROMPT_USAGE.md および GitHub Pages 掲載の利用規約をご確認ください。  
 Please refer to PROMPT_USAGE.md and the Terms of Use published on GitHub Pages for details.
+
+
+詳細は以下をご確認ください：
+- PROMPT_USAGE.md
+- 利用規約（GitHub Pages）: https://atsuyoshi-hikida.github.io/business-prompts/
